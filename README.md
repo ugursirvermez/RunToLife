@@ -1,4 +1,4 @@
-# Run To Life
+# Run to Life
 Ögrencilerimin olusturdugu egitim amacli 2 boyutlu bir bilgisayar oyunu. Unity ve C# kullanilarak hazirlandi.
 ## Projeyi Gelistirenler
 + Betul Erdogmus
