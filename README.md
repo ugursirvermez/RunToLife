@@ -22,4 +22,6 @@ Bu oyunda neler yaptigimizi ozetleyecek olursak;
 # Hedef Kitle
 2D oyun oynamak isteyen herkes!
 # Projemizin SWOT Analizi
-Projemize bir SWOT analizi yapmak istedik.
+Projemize bir SWOT analizi yapmak istedik. Burada amacimiz 4 ay boyunca gelistirdigimiz projenin kulanici testinin analizinin gelecekte faydali olacagina inaniyoruz.
+# Oyundan Gorseller
+
