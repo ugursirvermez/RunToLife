@@ -23,5 +23,6 @@ Bu oyunda neler yaptigimizi ozetleyecek olursak;
 2D oyun oynamak isteyen herkes!
 # Projemizin SWOT Analizi
 Projemize bir SWOT analizi yapmak istedik. Burada amacimiz 4 ay boyunca gelistirdigimiz projenin kulanici testinin analizinin gelecekte faydali olacagina inaniyoruz.
+[runtolife-proje-analizi-3-6-2023.pdf](https://github.com/ugursirvermez/RunToLife/files/11642711/runtolife-proje-analizi-3-6-2023.pdf)
 # Oyundan Gorseller
 
