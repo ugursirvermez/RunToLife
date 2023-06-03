@@ -26,4 +26,8 @@ Projemize bir SWOT analizi yapmak istedik. Burada amacimiz 4 ay boyunca gelistir
 [runtolife-proje-analizi-3-6-2023.pdf](https://github.com/ugursirvermez/RunToLife/files/11642711/runtolife-proje-analizi-3-6-2023.pdf)
 ![SWOT](https://github.com/ugursirvermez/RunToLife/assets/6298796/fe78dada-2f20-4b9a-8d19-640307f6e277)
 # Oyundan Gorseller
-
+![1](https://github.com/ugursirvermez/RunToLife/assets/6298796/d5ef99a3-ef43-4fec-9cde-555acb9350c5)
+![2](https://github.com/ugursirvermez/RunToLife/assets/6298796/18d0e001-a5b0-452a-a5dd-1620fdb49b69)
+![3](https://github.com/ugursirvermez/RunToLife/assets/6298796/708dfbd7-1b3b-43b7-a098-eed11f1a2045)
+![4](https://github.com/ugursirvermez/RunToLife/assets/6298796/ca27b4f3-bc6a-4c8c-a4de-30b60f3609f9)
+![5](https://github.com/ugursirvermez/RunToLife/assets/6298796/5216151b-2104-498d-9a29-ee6e3000842d)
