@@ -24,5 +24,6 @@ Bu oyunda neler yaptigimizi ozetleyecek olursak;
 # Projemizin SWOT Analizi
 Projemize bir SWOT analizi yapmak istedik. Burada amacimiz 4 ay boyunca gelistirdigimiz projenin kulanici testinin analizinin gelecekte faydali olacagina inaniyoruz.
 [runtolife-proje-analizi-3-6-2023.pdf](https://github.com/ugursirvermez/RunToLife/files/11642711/runtolife-proje-analizi-3-6-2023.pdf)
+![SWOT](https://github.com/ugursirvermez/RunToLife/assets/6298796/fe78dada-2f20-4b9a-8d19-640307f6e277)
 # Oyundan Gorseller
 
